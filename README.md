@@ -1,6 +1,6 @@
 # Exercice 3 
 ## plugin Wordpress
-### Contient 9 commit
+### Contient 11 commit
 
 [github-page](https://github.com/laetiJSTE/31w-extension-tp1)
 >Le plugin contient 5 fichiers
@@ -10,7 +10,7 @@ readme.md
 style.css
 style.css.map
 
-[sideground-page](http://eddym96.sg-host.com/wp-admin/post.php?post=5&action=edit)
+[sideground-page](http://eddym96.sg-host.com/description-du-cours-582-1m1-creation-video/)
 
 Pour plus d'information sur la conception de plugin
 [WP developper guide](https://developper.wordpress.org/plugins)
