@@ -32,7 +32,7 @@ function genere_carrousel(){
     // Le conteneur d'images
     $contenu .= '<figure class="carrousel__figure"></figure>';
     // Le formulaire des radio bouton pour naviguer d'une image à l'autre
-    $contenu .= '<form class="carrousel__radio"></form>';
+    $contenu .= '<form class="carrousel__radio" id=1></form>';
     $contenu .= '</div> <!-- fin du carrousel -->';
    
     return $contenu;
