@@ -63,7 +63,7 @@
 
 .carrousel__fermeture{
   font-weight: bolder;
- 
+  border: black 1px solid;
 }
 
 .carrousel__fermeture:hover{
