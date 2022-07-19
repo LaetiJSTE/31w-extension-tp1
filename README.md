@@ -1,8 +1,8 @@
 # Exercice 3 
 ## plugin Wordpress
-### Contient 11 commit
+### Contient 16 commit
 
-[github-page](https://github.com/laetiJSTE/31w-extension-tp1)
+[github-page](https://github.com/LaetiJSTE/31w-extension-tp1/tree/tp1)
 >Le plugin contient 5 fichiers
 carrousel.js
 carrousel.php
