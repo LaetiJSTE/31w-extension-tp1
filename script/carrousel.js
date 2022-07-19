@@ -1,7 +1,7 @@
 /**
  * Fonction IIFE qui permet de contrôler l'affichage du carrousel
  * Auteur : laetitia Juste
- * Date de dernière modification : 6 juillet 2022
+ * Date de dernière modification : 19 juillet 2022
  * 
  */
 
