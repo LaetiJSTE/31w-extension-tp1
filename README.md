@@ -1,6 +1,6 @@
 # Exercice 3 
 ## plugin Wordpress
-### Contient 16 commit
+### Contient 19 commit
 
 [github-page](https://github.com/LaetiJSTE/31w-extension-tp1/tree/tp1)
 >Le plugin contient 5 fichiers
