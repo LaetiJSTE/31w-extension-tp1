@@ -39,6 +39,7 @@
   height: 100%;
   opacity: 0;
   transition: all 1s;
+  box-shadow: rgba(0, 0, 0, 0.897) 0px 15px 25px;
 }
 
 .carrousel__figure__img--activer {
